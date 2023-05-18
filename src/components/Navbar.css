@@ -1,0 +1,26 @@
+/* Navbar.css */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    background: linear-gradient(90deg, rgba(208, 58, 213, 0.87) 0%, rgba(210, 58, 224, 0.966) 100%);
+  }
+  
+  .navbar-logo {
+    font-size: 1.5rem;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .navbar-links {
+    display: flex;
+    list-style: none;
+    gap: 1rem;
+  }
+  
+  .navbar-link {
+    color: white;
+    text-decoration: none;
+  }
+  
